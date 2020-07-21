@@ -7,7 +7,7 @@ https://tekipaki.hypotheses.org/
 https://github.com/alxdrdelaporte/Tekipaki
 
 More about this script (French) :
-https://tekipaki.hypotheses.org/?p=478
+https://tekipaki.hypotheses.org/478
 
 INPUT = HTML files directory with any character encoding
 OUTPUT =
