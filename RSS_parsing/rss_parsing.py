@@ -91,7 +91,6 @@ print_entries(tekipaki)
 
 # La Croisée de la Bulac
 veille_bulac = feedparser.parse('https://veillebulac.hypotheses.org/feed')
-entries_table('veille_bulac_entries_table2.tsv', veille_bulac)
 print_feed_data(veille_bulac)
 print_entries(veille_bulac)
 # Uncomment following line to write a .tsv file
