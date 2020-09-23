@@ -7,7 +7,7 @@ https://tekipaki.hypotheses.org/
 https://github.com/alxdrdelaporte/
 https://gitlab.com/alxdrdelaporte
 
-Detect encoding with chardet for multiple files and creates a .tsv file with output.
+Detect encoding with chardet for multiple files and create a .tsv file with output.
 INPUT
 Path to the repository containing the files (browsed recursively)
 OUTPUT
