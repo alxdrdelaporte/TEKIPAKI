@@ -21,7 +21,7 @@ import csv
 
 
 input_path = "corpus/**/*.html"
-output_path = "encoding_table_test.tsv"
+output_path = "encoding_table.tsv"
 
 
 # write output file
