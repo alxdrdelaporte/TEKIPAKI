@@ -1,6 +1,7 @@
 # TEKIPAKI
 
-Scripts and files from [my Hypotheses blog, Tekipaki](https://tekipaki.hypotheses.org/).
+Scripts and files from [my Hypotheses blog, Tekipaki](https://tekipaki.hypotheses.org/) from April 2020 to September 2021.
+All ulterior contents will have scripts and files stored in dedicated individal repositories.
 
 French readers, please visit the following posts on [Tekipaki](https://tekipaki.hypotheses.org/) for more information regarding files from this repository :
 
@@ -12,3 +13,8 @@ French readers, please visit the following posts on [Tekipaki](https://tekipaki.
 * “Fiabilité de chardet”, par Alexander Delaporte. Publié sur Tekipaki le 30/07/2020. Lien : https://tekipaki.hypotheses.org/536.
 * “Étiquetage morphosyntaxique avec SudachiPy”, par Alexander Delaporte. Publié sur Tekipaki le 26/08/2020. Lien : https://tekipaki.hypotheses.org/721.
 * “Parser un flux de syndication avec Python”, par Alexander Delaporte. Publié sur Tekipaki le 18/09/2020. Lien : https://tekipaki.hypotheses.org/628.
+* “Uniformisation d’encodage en deux étapes”, par Alexander Delaporte. Publié sur Tekipaki le 29/09/2020. Lien : https://tekipaki.hypotheses.org/669.
+* “Navigation web automatique avec Python”, par Alexander Delaporte. Publié sur Tekipaki le 08/04/2021. Lien : https://tekipaki.hypotheses.org/1475.
+* “Produire un corpus web format XML en 15 lignes de code”, par Alexander Delaporte. Publié sur Tekipaki le 04/05/2021. Lien : https://tekipaki.hypotheses.org/1758.
+* “Déclaration XML automatique”, par Alexander Delaporte. Publié sur Tekipaki le 30/06/2021. Lien : https://tekipaki.hypotheses.org/1897.
+* “Lire (et modifier) un fichier XML avec Python”, par Alexander Delaporte. Publié sur Tekipaki le 20/07/2021. Lien : https://tekipaki.hypotheses.org/1906.
