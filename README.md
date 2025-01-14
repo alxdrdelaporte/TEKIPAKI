@@ -1,7 +1,7 @@
 # TEKIPAKI
 
 Scripts and files from [my Hypotheses blog, Tekipaki](https://tekipaki.hypotheses.org/) from April 2020 to September 2021.
-All ulterior contents will have scripts and files stored in dedicated individal repositories.
+All ulterior contents will have scripts and files stored in dedicated individual repositories.
 
 French readers, please visit the following posts on [Tekipaki](https://tekipaki.hypotheses.org/) for more information regarding files from this repository :
 
